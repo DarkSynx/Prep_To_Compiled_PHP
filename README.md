@@ -1,3 +1,5 @@
+en construction ...
+
 # How_To_Compiled_PHP
 Guide to prepare your pc to compile php sources // Guide pour préparer son pc à compiler les sources de php
 
@@ -33,3 +35,6 @@ Setp 2.
 ---------
 Cette installation sera compliqué. Il est conseillé d'étre trés attentif pour ne pas faire d'erreur.<br/>
 This installation will be complicated. It is advisable to be very careful not to make mistakes.<br/>
+
+
+en construction ...
