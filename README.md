@@ -11,8 +11,9 @@ https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
 
 Setp 1. 
 ---------
-<center>
+ouvrez le dossier «Step 1»<br/>
 Cliquer sur «PrepInstall.bat» et vous attendez que l'on vous demande d'appuyer sur une touche:<br/>
+open the "Step 1" folder<br/>
 Click on "PrepInstall.bat" and wait until you are prompted to press a key:<br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1.jpg" width="240" /><br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_2.jpg" width="240" /><br/>
@@ -25,4 +26,4 @@ here you do not touch anything!<br/>
 plus bas sélectionner la deuxiéme option comme sur l'image et vous cliquez sur installer.<br/>
 further down select the second option as on the image and you click install.<br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_5.jpg" width="240" /><br/>
-</center>
+
