@@ -8,6 +8,8 @@ recuperez votre image virtuel de windows que vous préférez:
 get your virtual image of windows you prefer :
 https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
 
+puis vous récupérez dans le Git ici. Les dossier «Step 1,2..»
+then you get back in the Git here. The folder "Step 1,2 .."
 
 Setp 1. 
 ---------
