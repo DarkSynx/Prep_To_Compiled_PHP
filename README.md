@@ -4,12 +4,12 @@ Guide to prepare your pc to compile php sources // Guide pour préparer son pc �
 
 Setp 0. 
 ---------
-recuperez votre image virtuel de windows que vous préférez:
-get your virtual image of windows you prefer :
+recuperez votre image virtuel de windows que vous préférez:<br/>
+get your virtual image of windows you prefer:<br/>
 https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
 
-puis vous récupérez dans le Git ici. Les dossier «Step 1,2..»
-then you get back in the Git here. The folder "Step 1,2 .."
+puis vous récupérez dans le Git ici. Les dossier «Step 1,2..»<br/>
+then you get back in the Git here. The folder "Step 1,2 .."<br/>
 
 Setp 1. 
 ---------
