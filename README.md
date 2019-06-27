@@ -9,7 +9,7 @@ get your virtual image of windows you prefer :
 https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
 
 
-Setp 0. 
+Setp 1. 
 ---------
 <center>
 Cliquer sur «PrepInstall.bat» et vous attendez que l'on vous demande d'appuyer sur une touche:<br/>
