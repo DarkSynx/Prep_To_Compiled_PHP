@@ -8,3 +8,6 @@ get your virtual image of windows you prefer :
 https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
 
 
+Setp 1. 
+---------
+![alt text]()
