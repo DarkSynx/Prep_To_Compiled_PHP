@@ -15,26 +15,12 @@ then you get back in the Git here. The folder "Step 1,2 .."<br/>
 
 Setp 1. 
 ---------
-ouvrez le dossier «Step 1»<br/>
-Cliquer sur «PrepInstall.bat» et vous attendez que l'on vous demande d'appuyer sur une touche:<br/>
-open the "Step 1" folder<br/>
-Click on "PrepInstall.bat" and wait until you are prompted to press a key:<br/>
-<img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1.jpg" width="240" /><br/>
+Click « START_INSTALL.bat »
+
+<img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1.jpg"   width="240" /><br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_2.jpg" width="240" /><br/>
-à cette étape cliquez sur continuer:<br/>
-at this step click continue:<br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_3.jpg" width="240" /><br/>
-ici vous ne touchez à rien !<br/>
-here you do not touch anything!<br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_4.jpg" width="240" /><br/>
-plus bas sélectionner la deuxiéme option comme sur l'image et vous cliquez sur «installer».<br/>
-further down select the second option as on the image and you click "install".<br/>
 <img src="https://raw.githubusercontent.com/Darksynx/How_To_Compiled_PHP/master/Step%201/Step1_5.jpg" width="240" /><br/>
 
-Setp 2. 
----------
-Cette installation sera compliqué. Il est conseillé d'étre trés attentif pour ne pas faire d'erreur.<br/>
-This installation will be complicated. It is advisable to be very careful not to make mistakes.<br/>
 
-
-en construction ...
