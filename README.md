@@ -8,7 +8,9 @@ Setp 0.
 ---------
 recuperez votre image virtuel de windows que vous préférez:<br/>
 get your virtual image of windows you prefer:<br/>
-https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines
+https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines 
+or 
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 puis vous récupérez dans le Git ici. Les dossier «Step 1,2..»<br/>
 then you get back in the Git here. The folder "Step 1,2 .."<br/>
